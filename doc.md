@@ -1,10 +1,13 @@
 # Apresentação do apeview
 
-## ideias horriveis
-- Powtoon
-- Slides em Engles
+## Divisão e responsáveis
+- Daniel - Controle de dados e supervisão do projeto
+- Guilherme - Funcionalidade do frontend e arquiteto
+- Vitor - Backend e DevOps
+- Ícaro - Estilização do Frontend
+- Montanari - estilização frontend e Ui/Ux
 
-## ideias
+## Tópicos de apresentação
 
 Total: 15 minutos
 
@@ -16,4 +19,11 @@ Total: 15 minutos
 | Impacto                   | 2 min | Como o app auxilia e facilita o trabalho dos aprendizes e dos gestores? |
 | Demonstração              | 5 min | Funcionamento do app                                                    |
 
+## Round 2
 
+- Deploy das APIs finalizadas do backend, tanto de teste de desenvolvimento
+- Finalizado o wireframe de alta fidelidade da aplicação
+- Feedback dos avanços já feitos no projeto
+- Melhorias no frontend
+- Definição da divisão de responsabilidades do projeto
+- 
