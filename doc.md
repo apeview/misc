@@ -26,4 +26,11 @@ Total: 15 minutos
 - Feedback dos avanços já feitos no projeto
 - Melhorias no frontend
 - Definição da divisão de responsabilidades do projeto
-- 
+
+## Round 3
+
+- Sequência no desenvolvimento do frontend
+- Aperfeiçoamento da API conforme as necessidades
+- Mudança na base de dados
+- Finalização das telas estáticas do aplicativo
+- Redefinição de prioridades
