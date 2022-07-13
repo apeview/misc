@@ -29,6 +29,7 @@ Total: 15 minutos
 
 ## Round 3
 
+- Review dos avanços anteriores
 - Sequência no desenvolvimento do frontend
 - Aperfeiçoamento da API conforme as necessidades
 - Mudança na base de dados
