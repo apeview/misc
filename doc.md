@@ -35,3 +35,16 @@ Total: 15 minutos
 - Mudança na base de dados
 - Finalização das telas estáticas do aplicativo
 - Redefinição de prioridades
+
+## Round 4
+
+- Definição das prioridades para finalização do projeto (Apresentação, marca e documentação) 
+
+Separação das responsabilidades
+
+- Natha e Giovana (Marketing, gráficos do Dashbord em powerBI, transcrição da Documentação)
+- Montanari (POWTOON, React (about us), arrumar apresentação)
+- Ícaro (React (login, sign up))
+- Miura (API endpoint edit image, adicionar exemplos reais no banco de dados)
+- Dante (Apresentação, Dashboard em powerBI e Documentação)
+- Abe (Dashboard, estilização, e edit Imagem)
