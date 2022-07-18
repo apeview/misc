@@ -2,7 +2,7 @@
 
 ## Divisão e responsáveis
 - Daniel Dante - Controle de dados e supervisão do projeto
-- Giovana Freitas - Tradução das documentações e Dashboards
+- Giovanna Freitas - Tradução das documentações e Dashboards
 - Guilherme Abe - Funcionalidade do frontend e arquiteto
 - Ícaro Duarte - Estilização do Frontend
 - Nathã Wolff - Idealização das Dashboards e Apresentação
