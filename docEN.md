@@ -2,7 +2,7 @@
 
 ### APEview (Analysis and Projects Environment view)
 
-## Project division 
+## General Project division 
 - Daniel Dante - Data control and project management
 - Giovanna Freitas - Translation of documentation and Dashboards
 - Guilherme Abe - Front-end architecture and functionality
