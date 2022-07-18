@@ -4,7 +4,7 @@
 
 ## Project division 
 - Daniel Dante - Data control and project management
-- Giovana Freitas - Translation of documentation and Dashboards
+- Giovanna Freitas - Translation of documentation and Dashboards
 - Guilherme Abe - Front-end architecture and functionality
 - Ícaro Duarte - Front-end stylization
 - João Montanari - Frontend and Ui/Ux stylization
